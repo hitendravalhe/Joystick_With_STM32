@@ -32,7 +32,6 @@ After installation, close the Boards Manager window.
 Connect the joystick module to the STM32 microcontroller according to the following wiring diagram:
 
     Joystick Module    STM32 Microcontroller
-    --------------    ----------------------
          GND              GND
          VCC              3.3 or 5 V
          VRX              PA0 (Analog Pin)
